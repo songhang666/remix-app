@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Terry-Soong-s-workspace-026c1i.us-east-1.xata.sh/db/resolution",
+  "codegen": {
+    "output": "utils/xata.ts"
+  }
+}
